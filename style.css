@@ -1,0 +1,29 @@
+  
+  #autocomplete-list {  
+    margin-left: -15px;
+  }
+  
+  .autocomplete-item {
+    padding: 5px;
+    cursor: pointer;
+  }
+  .autocomplete-item span {
+    display: inline-block;
+    margin-left: 10px;
+  }
+
+  .light-item{
+    border-bottom: 0.5px solid #ededed;
+  }
+
+  .dark-item{
+    border-bottom: 0.5px solid #393939;
+  }
+
+  .dark-item:hover{
+    background-color: #202123;
+  }
+
+  .light-item:hover{
+    background-color:#ededed;
+  }
