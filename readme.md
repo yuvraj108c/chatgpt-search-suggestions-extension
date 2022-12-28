@@ -1,6 +1,7 @@
 # ChatGPT Search Suggestions
 
-A Chrome extension which provides google search suggestions to ChatGPT.
+- A Chrome extension which provides google search suggestions to ChatGPT.
+- Supports both light and dark theme
 
 ![](https://i.imgur.com/Y4Ow20Z.gif)
 
@@ -16,6 +17,10 @@ git clone https://github.com/yuvraj108c/chatgpt-search-suggestions-extension.git
 2. Check the Developer mode checkbox in the top right-hand corner
 3. Click `Load Unpacked` to see a file-selection dialog
 4. Select your local `chatgpt-search-suggestions-extension` directory
+
+## Support
+
+Feel free to support the project if you enjoy it (https://paypal.me/yuvraj108c)
 
 ## License
 
