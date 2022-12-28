@@ -1,6 +1,6 @@
 # ChatGPT Search Suggestions
 
-- A Chrome extension which provides google search suggestions to ChatGPT.
+- A Chrome extension which provides google search suggestions to ChatGPT
 - Supports both light and dark theme
 
 ![](https://i.imgur.com/Y4Ow20Z.gif)
