@@ -1,8 +1,9 @@
 {
     "manifest_version": 3,
     "name": "ChatGPT Search Suggestions",
-    "description": "Adds google search suggestions to ChatGPT",
+    "description": "Get google search suggestions in ChatGPT",
     "version": "1.0.0",
+    "author": "Yuvraj Seegolam",
     "background": {
         "service_worker": "background.js"
     },
