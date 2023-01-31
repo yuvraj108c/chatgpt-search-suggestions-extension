@@ -71,6 +71,7 @@ async function getSearchSuggestions(query) {
     return JSON.parse(data)[1];
   } catch (error) {
     console.error(error);
+    return [];
   }
 }
 
